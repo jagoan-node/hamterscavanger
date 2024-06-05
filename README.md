@@ -9,6 +9,10 @@ git clone https://github.com/jagoan-node/hamterscavanger.git
 
 cd hamterscavanger
 
+install screen 
+
+screen -S hamter
+
 npm i
 
 node index.js
