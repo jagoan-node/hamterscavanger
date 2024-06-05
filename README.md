@@ -5,7 +5,7 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
 
 nvm install node
 
-git clone 
+git clone https://github.com/jagoan-node/hamterscavanger.git
 
 cd hamterscavanger
 
